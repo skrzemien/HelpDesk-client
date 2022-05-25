@@ -94,7 +94,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header title="React JS Blog" />
+      <Header title="Helpdesk UI " />
       <Nav search={search} setSearch={setSearch} />
       <Switch>
         <Route exact path="/">
